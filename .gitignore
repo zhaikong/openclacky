@@ -15,3 +15,5 @@ CLAUDE.md
 .DS_Store
 .history
 coscli*
+config.bat
+node_modules
