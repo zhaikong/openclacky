@@ -35,6 +35,9 @@ Install:
 
 # VERSION: 1
 
+import lib.http_session
+import lib.transport
+import lib.session
 import os
 import sys
 
